@@ -1,4 +1,4 @@
-# Highest-performed-and-rated-katas-at-Tokyo-Olympics-2021
+# Olympics 2021: Karate Kata Visualisation
 
 I manually scraped the official Tokyo Olympic website, then arranged the data with Google Spreadsheets and visualised the data with Tableau Public.
 Kata is a pattern of karate movements that is meant to be practised alone. It is a huge part of a karateka's training, so there are a lot of kata competitions, like at Tokyo Olympics.
